@@ -4,4 +4,4 @@
 
 ### 3. Steps to duplicate
 
-### 4. Releveant Screenshots (Please upload in-line)
+### 4. Relevant Screenshots (Please upload in-line)
