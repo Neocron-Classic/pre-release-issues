@@ -1,7 +1,7 @@
-Describe the bug that you believe you've encountered.
+## 1. Describe the bug that you believe you've encountered
 
-What should be the desired result?
+### 2. What should be the desired result
 
-Steps to duplicate:
+### 3. Steps to duplicate
 
-Screenshots:
+### 4. Releveant Screenshots (Please upload in-line)
